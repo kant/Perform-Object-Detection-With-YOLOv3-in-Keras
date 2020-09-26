@@ -80,7 +80,7 @@
   </annotation>
   ```
 
-* genertae train.txt and test.txt
+* generate train.txt and test.txt
   
   ````````````````````````````````````````
   create folder data 
